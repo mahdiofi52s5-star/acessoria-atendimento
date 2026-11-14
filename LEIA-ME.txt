@@ -1,0 +1,30 @@
+SITE — 67.197.891 Laiz Dias de Alcantara
+
+Arquivos:
+- index.html: página principal
+- sobre.html: página institucional
+- privacidade.html: política de privacidade
+- termos.html: termos de uso
+- css/style.css: estilos personalizados
+- js/main.js: ano automático no rodapé
+
+Como visualizar:
+1. Extraia o ZIP.
+2. Abra index.html no navegador.
+3. Para publicar, envie toda a pasta mantendo a estrutura de diretórios para sua hospedagem.
+
+Imagens:
+Os blocos de imagem são espaços reservados. Quando você enviar as fotos, elas poderão ser inseridas e ajustadas no layout.
+
+Importante antes de anunciar:
+- Revise o texto legal para refletir as práticas reais da empresa e as ferramentas instaladas.
+- Se adicionar formulário, Google Analytics, tag do Google Ads, pixels ou cookies não essenciais, atualize a Política de Privacidade e implemente os avisos/consentimentos aplicáveis.
+- Confira se o telefone, e-mail, endereço, CNPJ e data cadastral estão corretos.
+- Este modelo não garante aprovação no Google Ads; a aprovação depende também do anúncio, destino, práticas comerciais e políticas vigentes.
+- A página usa Bootstrap e Bootstrap Icons por CDN, portanto precisa de internet para carregar esses recursos.
+
+Imagens incluídas em /images:
+- ambiente-principal.jpg
+- ambiente-sala.jpeg
+- ambiente-conceito.jpeg
+- ambiente-natural.jpeg
